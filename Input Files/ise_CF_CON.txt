@@ -1,0 +1,6 @@
+type:	markedness
+*si	[s][iI]
+Agree	[iI].[eE]|[eE].[iI]
+type:	faithfulness
+Ident(high)	e,i,E,I	i,e,I,E
+Ident(ant)	s	S

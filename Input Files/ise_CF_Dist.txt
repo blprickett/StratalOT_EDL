@@ -1,0 +1,24 @@
+"ooTextFile"				
+PairDistribution
+Description: Pal first then harm (counterfeeding ise).
+20 pairs				
+"x"	"Ese"		1	1	Ese
+"x"	"esE"		1	2	esE
+"x"	"ake"		1	3	ake
+"x"	"akE"		1	4	akE
+"x"	"aki"		1	5	aki
+"x"	"akI"		1	6	akI
+"x"	"ase"		1	7	ase
+"x"	"asE"		1	8	asE
+"x"	"Eke"		1	9	Eki
+"x"	"ekE"		1	10	ekI
+"x"	"Iki"		1	11	Ike
+"x"	"ikI"		1	12	ikE
+"x"	"ISi"		1	13	Isi
+"x"	"iSI"		1	14	isI
+"x"	"aSi"		1	15	asi
+"x"	"aSI"		1	16	asI
+"x"	"isi"		1	17	ise
+"x"	"IsI"		1	18	IsE
+"x"	"Isi"		1	19	Ise
+"x"	"isI"		1	20	isE
